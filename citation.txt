@@ -1,0 +1,6 @@
+@article{REPO332,
+    author = "Ma, Jun and Kim, Sumin and Li, Feifei and Baharoon, Mohammed and Asakereh, Reza and Lyu, Hongwei and Wang, Bo",
+    journal = "arXiv preprint arXiv:2408.03322",
+    title = "{Segment anything in medical images and videos: Benchmark and deployment}",
+    year = "2024"
+}
